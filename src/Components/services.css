@@ -1,0 +1,5 @@
+#services_box{
+    display: grid;
+    grid-template-columns: repeat(3, 310px);
+    border: 1px solid red;
+}
